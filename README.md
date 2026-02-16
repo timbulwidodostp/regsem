@@ -1,6 +1,10 @@
 # regsem
 Regularized Structural Equation Modeling Use regsem With (In) R Software
 
+https://www.youtube.com/watch?v=jCi67YEOFp8
+
+Olah Data Semarang
+
 WA: +6285227746673 (085227746673)
 
 Providing Statistical Analysis Data Processing Services Using
